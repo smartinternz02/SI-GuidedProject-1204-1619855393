@@ -1,0 +1,3 @@
+
+https://shanthisri.eu-gb.mybluemix.net/ui     ---->>>>>Web Application Url
+                                                     dashboard-Assignment_6 (Sensor data)
